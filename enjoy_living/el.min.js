@@ -1,0 +1,1 @@
+window.addEventListener("scroll",(function(){var header=document.querySelector("header"),scrollY;window.scrollY>100?(header.style.height="80px",header.style.backgroundColor="#edede4"):(header.style.height="80px",header.style.backgroundColor="transparent")}));
